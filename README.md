@@ -1,5 +1,7 @@
 # theatrical_supertitler
-Script for producing powerpoint for theatrical supertitles .
+Script for producing powerpoint for theatrical supertitles.
+
+Built for python3.5 and python-pptx.
 
 # Warnings
 
